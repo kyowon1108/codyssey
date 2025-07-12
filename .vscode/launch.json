@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: app.py",
+      "type": "python",
+      "request": "launch",
+      "program": "/Users/kapr/Documents/codyssey/pro1/que2/app.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
